@@ -27,7 +27,7 @@ body {
 }
 
 .black {
-	background-color: #9400D3;
+	background-color: #0D0628;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
@@ -44,9 +44,9 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #FF00FF;
+	background-color: #44AF69;
 	outline: none;
-	color: #fff;
+	color: #FFF8F0;
 	text-decoration: none;
 }
 
@@ -56,5 +56,5 @@ body {
 
 .black p {
 	font-size: 18px;
-	color: #ffffff;
+	color: #0D0628;
 }
